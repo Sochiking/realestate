@@ -1,0 +1,6 @@
+{
+  "name": "NEXT HM - Luxury Real Estate & Apartments",
+  "description": "Premier luxury real estate platform featuring curated apartments, penthouses, architectural floor plans, executive agents, and market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
