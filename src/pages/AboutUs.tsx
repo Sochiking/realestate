@@ -57,7 +57,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({ onNavigate, onOpenCallModal })
           <div className="lg:col-span-6 relative">
             <div className="rounded-2xl overflow-hidden shadow-2xl border-4 border-slate-100">
               <img
-                src="/src/assets/images/luxury_modern_villa_1794079004096.jpg"
+                src="/assets/images/luxury_modern_villa_1794079004096.jpg"
                 alt="Architecture"
                 referrerPolicy="no-referrer"
                 className="w-full h-96 object-cover"

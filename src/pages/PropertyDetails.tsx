@@ -80,9 +80,9 @@ export const PropertyDetails: React.FC<PropertyDetailsProps> = ({
 
   const galleryImages = [
     property.image,
-    '/src/assets/images/luxury_quote_bedroom_1794079004333.jpg',
-    '/src/assets/images/luxury_interior_living_1794079005230.jpg',
-    '/src/assets/images/luxury_modern_villa_1794079004096.jpg'
+    '/assets/images/luxury_quote_bedroom_1794079004333.jpg',
+    '/assets/images/luxury_interior_living_1794079005230.jpg',
+    '/assets/images/luxury_modern_villa_1794079004096.jpg'
   ];
 
   return (

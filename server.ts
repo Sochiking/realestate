@@ -139,7 +139,7 @@ const properties: Property[] = [
     parking: 2,
     city: 'New York',
     address: '742 Park Avenue, Upper East Side, NY 10021',
-    image: '/src/assets/images/luxury_interior_living_1794079005230.jpg',
+    image: '/assets/images/luxury_interior_living_1794079005230.jpg',
     featured: true,
     tag: 'FEATURED',
     agentId: 'clarke-mica',
@@ -161,7 +161,7 @@ const properties: Property[] = [
     parking: 3,
     city: 'New York',
     address: '110 Riverside Boulevard, Lincoln Square, NY 10069',
-    image: '/src/assets/images/modern_apartment_exterior_1794079005395.jpg',
+    image: '/assets/images/modern_apartment_exterior_1794079005395.jpg',
     featured: true,
     tag: 'BEST VALUE',
     agentId: 'sobuj-khan',
@@ -183,7 +183,7 @@ const properties: Property[] = [
     parking: 2,
     city: 'New York',
     address: '432 West End Avenue, Upper West Side, NY 10024',
-    image: '/src/assets/images/luxury_quote_bedroom_1794079004333.jpg',
+    image: '/assets/images/luxury_quote_bedroom_1794079004333.jpg',
     featured: true,
     tag: 'EXCLUSIVE',
     agentId: 'natasa-clarke',
@@ -205,7 +205,7 @@ const properties: Property[] = [
     parking: 2,
     city: 'New York',
     address: '88 Central Park South, New York, NY 10019',
-    image: '/src/assets/images/luxury_modern_villa_1794079004096.jpg',
+    image: '/assets/images/luxury_modern_villa_1794079004096.jpg',
     featured: false,
     tag: 'RENTAL PRIME',
     agentId: 'emilia-clarke',
@@ -227,7 +227,7 @@ const properties: Property[] = [
     parking: 4,
     city: 'New York',
     address: '15 Central Park West, New York, NY 10023',
-    image: '/src/assets/images/hero_hand_holding_house_1794079002895.jpg',
+    image: '/assets/images/hero_hand_holding_house_1794079002895.jpg',
     featured: true,
     tag: 'HOT DEAL',
     agentId: 'sobuj-khan',
@@ -249,7 +249,7 @@ const properties: Property[] = [
     parking: 2,
     city: 'New York',
     address: '56 Leonard Street, Tribeca, NY 10013',
-    image: '/src/assets/images/modern_apartment_exterior_1794079005395.jpg',
+    image: '/assets/images/modern_apartment_exterior_1794079005395.jpg',
     featured: false,
     tag: 'NEW ARRIVAL',
     agentId: 'clarke-mica',
@@ -271,7 +271,7 @@ const blogPosts: BlogPost[] = [
     category: 'REAL ESTATE',
     excerpt: 'People Work For Us In More Than 70 Countries Over The This Breadth Of Global modern residential architecture.',
     content: `The Diamond Manor Apartment project represents the cutting edge of contemporary urban density solutions. By synthesizing sustainable cross-laminated timber structural frames with high-performance low-emissivity glass envelopes, the building drastically reduces operational carbon footprints while delivering unprecedented acoustic isolation.\n\nOur architectural philosophy balances private sanctuary with communal activation. Each floor is arranged around a central sun-lit lightwell that provides natural cross-ventilation, reducing auxiliary HVAC loads by upwards of 34% compared to standard urban residential developments.`,
-    image: '/src/assets/images/modern_apartment_exterior_1794079005395.jpg',
+    image: '/assets/images/modern_apartment_exterior_1794079005395.jpg',
     readTime: '4 min read'
   },
   {
@@ -284,7 +284,7 @@ const blogPosts: BlogPost[] = [
     category: 'ARCHITECTURE',
     excerpt: 'People Work For Us In More Than 60 Countries Over The This Breadth Of Global penthouse interior craft.',
     content: `Penthouse design has shifted definitively from ostentatious ornamentation toward biophilic serenity and tactile materiality. At EliteView Residences, our collaboration with international master craftsmen showcases hand-finished Venetian plaster, warm American walnut cabinetry, and bookmatched quartzite kitchen counters.\n\nSmart environmental controls respond dynamically to daylight vectors, automatically modulating sheer shades and circadian-tuned lighting arrays to optimize occupant well-being from morning sunrise through evening twilight.`,
-    image: '/src/assets/images/luxury_quote_bedroom_1794079004333.jpg',
+    image: '/assets/images/luxury_quote_bedroom_1794079004333.jpg',
     readTime: '5 min read'
   },
   {
@@ -297,7 +297,7 @@ const blogPosts: BlogPost[] = [
     category: 'INVESTMENT',
     excerpt: 'People Work For Us In More Than 70 Countries Over The This Breadth Of Global high-yield property investment portfolios.',
     content: `Navigating prime metropolitan real estate markets requires robust quantitative underwriting paired with granular neighborhood intelligence. In this market briefing, our research desk evaluates cap rate trajectories across tier-1 urban cores, identifying resilient asset subclasses that outperform inflation benchmarks over 10-year holding horizons.\n\nFrom trophy multi-family assets to boutique residential conversions, understanding micro-market fundamentals ensures capital preservation while capturing long-term capital appreciation.`,
-    image: '/src/assets/images/luxury_interior_living_1794079005230.jpg',
+    image: '/assets/images/luxury_interior_living_1794079005230.jpg',
     readTime: '6 min read'
   },
   {
@@ -310,7 +310,7 @@ const blogPosts: BlogPost[] = [
     category: 'LIFESTYLE',
     excerpt: 'People Work For Us In More Than 50 Countries Over The This Breadth Of Global luxury architectural destinations.',
     content: `A comprehensive curated itinerary highlighting the most celebrated residential architectural marvels of North America and Europe. From modern glass pavilions nestled into coastal cliff faces to historic brownstones reimagined by visionary Scandinavian interior ateliers, explore the design philosophies redefining luxury hospitality and residential living today.`,
-    image: '/src/assets/images/luxury_modern_villa_1794079004096.jpg',
+    image: '/assets/images/luxury_modern_villa_1794079004096.jpg',
     readTime: '3 min read'
   }
 ];

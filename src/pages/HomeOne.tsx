@@ -54,7 +54,7 @@ export const HomeOne: React.FC<HomeOneProps> = ({ onNavigate, onOpenCallModal })
               {/* Pill capsule with luxury furniture photo inside headline as seen in video! */}
               <span className="inline-flex items-center align-middle mx-2 px-3 py-1 sm:px-4 sm:py-1.5 rounded-full bg-white/10 border border-white/20 shadow-inner overflow-hidden max-h-14 sm:max-h-16">
                 <img
-                  src="/src/assets/images/luxury_interior_living_1794079005230.jpg"
+                  src="/assets/images/luxury_interior_living_1794079005230.jpg"
                   alt="Interior"
                   referrerPolicy="no-referrer"
                   className="w-14 sm:w-20 h-7 sm:h-9 object-cover rounded-full"
@@ -93,7 +93,7 @@ export const HomeOne: React.FC<HomeOneProps> = ({ onNavigate, onOpenCallModal })
               <div className="absolute inset-0 bg-[#E5A93C]/10 rounded-full blur-3xl pointer-events-none" />
 
               <img
-                src="/src/assets/images/hero_hand_holding_house_1794079002895.jpg"
+                src="/assets/images/hero_hand_holding_house_1794079002895.jpg"
                 alt="Architectural House in Palm"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-contain relative z-10 drop-shadow-[0_20px_50px_rgba(0,0,0,0.8)] hover:scale-102 transition-transform duration-700"
@@ -131,7 +131,7 @@ export const HomeOne: React.FC<HomeOneProps> = ({ onNavigate, onOpenCallModal })
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-slate-100">
                 <img
-                  src="/src/assets/images/modern_apartment_exterior_1794079005395.jpg"
+                  src="/assets/images/modern_apartment_exterior_1794079005395.jpg"
                   alt="Modern Apartment Exterior"
                   referrerPolicy="no-referrer"
                   className="w-full h-96 object-cover"
@@ -443,7 +443,7 @@ export const HomeOne: React.FC<HomeOneProps> = ({ onNavigate, onOpenCallModal })
         {/* Background Image with Dark Contrast Scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/luxury_quote_bedroom_1794079004333.jpg"
+            src="/assets/images/luxury_quote_bedroom_1794079004333.jpg"
             alt="Luxury Interior Quote"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover"

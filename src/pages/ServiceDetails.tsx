@@ -121,7 +121,7 @@ export const ServiceDetails: React.FC<ServiceDetailsProps> = ({ onNavigate, onOp
 
           <div className="lg:col-span-5 rounded-2xl overflow-hidden shadow-2xl border-4 border-slate-100 aspect-[4/3]">
             <img
-              src="/src/assets/images/luxury_modern_villa_1794079004096.jpg"
+              src="/assets/images/luxury_modern_villa_1794079004096.jpg"
               alt="Development"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

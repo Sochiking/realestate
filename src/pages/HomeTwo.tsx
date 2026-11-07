@@ -43,7 +43,7 @@ export const HomeTwo: React.FC<HomeTwoProps> = ({ onNavigate, onOpenCallModal })
         {/* Cinematic Backdrop */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/luxury_modern_villa_1794079004096.jpg"
+            src="/assets/images/luxury_modern_villa_1794079004096.jpg"
             alt="Modern Villa Twilight"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover"
@@ -162,7 +162,7 @@ export const HomeTwo: React.FC<HomeTwoProps> = ({ onNavigate, onOpenCallModal })
             ) : (
               <div className="relative h-80 sm:h-96 w-full group cursor-pointer" onClick={() => setIsPlayingVideo(true)}>
                 <img
-                  src="/src/assets/images/luxury_interior_living_1794079005230.jpg"
+                  src="/assets/images/luxury_interior_living_1794079005230.jpg"
                   alt="Penthouse Living Room"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
